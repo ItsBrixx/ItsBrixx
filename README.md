@@ -2,14 +2,14 @@
 
 ### Management Information Systems Student | Tech Enthusiast | Aspiring Cybersecurity Analyst
 
-I am a dedicated Management Information Systems student from Turkey with a profound interest in the synergy between technology and business. When I'm not coding, you can find me immersing myself in the world of **aviation**, exploring **gadgets**, or getting lost in a **video game**.
+I am a dedicated Management Information Systems student from Turkey with a profound interest in the synergy between technology and business. When I'm not coding, you can find me immersing myself in the exploring **gadgets**, or getting lost in a **video game**.
 
 ---
 
 ### 🚀 What I'm Up To
 *   🛡️ **Learning:** Deep diving into **Cybersecurity** fundamentals.
 *   🛠️ **Working on:** Developing small-scale projects to streamline data workflows.
-*   ✈️ **Interests:** Coding, Aviation, Technology, and Gaming.
+*   📚 **Interests:** Coding, Technology, and Gaming.
 *   📬 **Reach me:** [@BrixHandle](https://github.com/ItsBrixx)
 
 </p>
