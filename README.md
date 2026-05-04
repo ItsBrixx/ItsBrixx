@@ -10,7 +10,7 @@ I am a dedicated Management Information Systems student from Turkey with a profo
 *   🛡️ **Learning:** Deep diving into **Cybersecurity** fundamentals.
 *   🛠️ **Working on:** Developing a custom Discord bot to automate processes.
 *   📝 **Writing:** Working on a novel.
-*   📬 **Reach me:** [@BrixHandle](https://github.com/ItsBrixxHandle)
+*   📬 **Reach me:** [@BrixHandle](https://github.com/ItsBrixx)
 
 </p>
 
